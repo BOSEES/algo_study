@@ -1,4 +1,4 @@
-const input = [7,3,9,5,6,12];
+const input = [7, 3, 9, 5, 6, 12];
 
 function sol(input) {
     const result = [input[0]];
